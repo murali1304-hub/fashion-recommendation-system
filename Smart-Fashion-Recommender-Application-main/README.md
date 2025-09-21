@@ -1,13 +1,13 @@
-# 20IT938-PRIEE-Smart-Fashion-Recommender-Application
+# Smart-Fashion-Recommender-Application
 
 
 Dataset Link 01 : [https://www.kaggle.com/datasets/vikas...](https://www.kaggle.com/datasets/vikashrajluhaniwal/fashion-images)https://www.kaggle.com/datasets/vikashrajluhaniwal/fashion-images
 
 Dataset Link 02: [https://www.kaggle.com/datasets/param...](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset)https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
 
-# A13-Kalaivani-B
 
-# Papers (02.09.2023)
+
+# Papers 
 Literature survey of: 
 1) “Explainable Outfit Recommendation with Joint Outfit Matching and Comment Generation” , Yujie Lin, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Jun Ma, and Maarten de Rijke, 2020
 2) “EPYNET: Efficient Pyramidal Network for Clothing Segmentation”, Andrei De Souza Inacio and Heitor Silverio Lopes, 2020
@@ -17,17 +17,17 @@ Literature survey of:
 6) “Tripartite Graph Regularized Latent Low-rank Representation for Fashion Compatibility Prediction”, Peiguang Jing, Jing Zhang, Liqiang Nie, Shu, Ye, Jing Liu, Yuting Su, 2021
 7) “Visual and Textual Jointly Enhanced Interpretable Fashion Recommendation”, Qianqian Wu, Pengpeng Zhao, and Zhiming Cui, 2020
 
-# Abstract (05.09.2023) 
+# Abstract 
 Abstract 
 
 Tech Stack
 
-# Proposed Solution (07.09.2023)
+# Proposed Solution 
 Solution
 
 Architecture diagram
 
-# Functional Requirements (19.09.2023)
+# Functional Requirements 
 Requirements
 
 Data Flow diagrams
